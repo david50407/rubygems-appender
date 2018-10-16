@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
 
   s.summary = %(Appends gems into RubyGems formatted index.)
   s.description = %(Appends new gems to generated index without old gems exists.)
+  s.homepage = 'https://github.com/david50407/rubygems-appender'
   s.license = 'MIT'
 
   s.files = Dir['README.md', 'LICENSE', 'lib/**/*']
